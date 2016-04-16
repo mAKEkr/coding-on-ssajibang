@@ -32,7 +32,7 @@
 한달간 무료로 사용할수 있는 크레딧을 발급해주기에 부담은 없지만, 한달이 지나면 가격부담은 꽤 되는 편입니다.
 외출/외박/휴가시 마이크로소프트에서 "Azure 잘 사용하셨나요?" 전화가 올수도 있습니다.
 
-- [ConoHa](https://conoha.jp/referral/?token=XcXjnOQtBBezjp_ZcPwaFvip2KsZXR9BfHHlaouPoVi2k9yiB.A-B4D)
+- [ConoHa](https://www.conoha.jp/referral/?token=2fc6Jpt7YbXOxmNAWjmJ_gUJK0GsPoV2xhSnh7_aOIG.3MaBN48-7GU)
 
 단순 개발목적의 경우 백업한 뒤에 서버를 켜고/끄기만 하면 끝. 가격은 시간당 1.3엔이며 Paypal을 통한 결제가 가능합니다.
 진짜 돈없는 군인들을 위한 완벽한 요금체계이지만, 번거롭다는 단점이 하나 있습니다. 여담이지만 API를 통하여 기본제공하는 OS 외의 다른 OS도 설치 가능합니다.(예를들면 윈도우라던가....)
